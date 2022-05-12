@@ -1,0 +1,9 @@
+server:
+    port: 8099
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/dbsecurity?useLegacyDatetimeCode=false&serverTimezone=UTC
+    username: root
+    password: 3NoM6Kbv!@#
+    initialization-mode: always
